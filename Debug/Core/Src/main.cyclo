@@ -1,0 +1,13 @@
+../Core/Src/main.c:105:6:Program_main	5
+../Core/Src/main.c:125:6:Program_Running	3
+../Core/Src/main.c:142:6:Program_Stop	1
+../Core/Src/main.c:152:5:main	1
+../Core/Src/main.c:276:6:SystemClock_Config	3
+../Core/Src/main.c:316:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:349:13:MX_USART3_UART_Init	2
+../Core/Src/main.c:382:13:MX_GPIO_Init	1
+../Core/Src/main.c:461:6:StartDefaultTask	2
+../Core/Src/main.c:487:6:StartReadVolt	2
+../Core/Src/main.c:530:6:StartReadInput	10
+../Core/Src/main.c:585:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:602:6:Error_Handler	1
